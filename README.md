@@ -4,7 +4,7 @@
 **Student:** [Aidan Jiang]  
 **Issue:** [[GitHub issue link](https://github.com/lance-format/lance/issues/1373
 )]  
-**Status:** [Phase I] [In Progress]
+**Status:** [Phase I] [Complete]
 
 ---
 
