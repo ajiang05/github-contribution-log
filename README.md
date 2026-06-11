@@ -1,15 +1,16 @@
-# Contribution [#]: [Issue Title]
+# Contribution [1]: [CompactionMetrics doesn't have a repr in Python]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Aidan Jiang]  
+**Issue:** [[GitHub issue link](https://github.com/lance-format/lance/issues/1373
+)]  
+**Status:** [Phase I] [In Progress]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it is simply just implementing a python method to show some outputs with a couple lines of code which is something that I can tackle. The language is also in python which is my most comfortable language
 
 ---
 
